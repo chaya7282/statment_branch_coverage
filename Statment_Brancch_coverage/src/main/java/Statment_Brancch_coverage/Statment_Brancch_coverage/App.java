@@ -6,6 +6,8 @@ package Statment_Brancch_coverage.Statment_Brancch_coverage;
  */
 public class App 
 {
+	
+	
 	public static int Add (int a, int b) {
 	 int result;	
 	 
