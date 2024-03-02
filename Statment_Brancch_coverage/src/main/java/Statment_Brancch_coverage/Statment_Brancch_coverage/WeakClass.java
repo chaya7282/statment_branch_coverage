@@ -6,6 +6,7 @@ public class WeakClass {
 	{
 		
 		int c;
+		int c;
 		if ((b<= a) ||(b==0))
 			c=a/b;
 		else 
